@@ -6,7 +6,7 @@
   <link href="https://lzlz.cc/atom.xml" rel="self"/>
   
   <link href="https://lzlz.cc/"/>
-  <updated>2022-10-02T18:40:27.810Z</updated>
+  <updated>2022-10-03T09:15:42.083Z</updated>
   <id>https://lzlz.cc/</id>
   
   <author>
@@ -17,24 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇</title>
-    <link href="https://lzlz.cc/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>https://lzlz.cc/%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
-    <published>2022-10-02T18:40:27.000Z</published>
-    <updated>2022-10-02T18:40:27.810Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://lzlz.cc/hello-world/"/>
     <id>https://lzlz.cc/hello-world/</id>
-    <published>2022-10-02T17:09:34.434Z</published>
-    <updated>2022-10-02T18:49:37.565Z</updated>
+    <published>2022-10-03T09:15:42.083Z</published>
+    <updated>2022-10-03T09:15:42.083Z</updated>
     
     
       
@@ -48,6 +35,19 @@
     
     
     <category term="测试类" scheme="https://lzlz.cc/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="https://lzlz.cc/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>https://lzlz.cc/%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
+    <published>2022-10-03T02:40:27.000Z</published>
+    <updated>2022-10-03T09:15:42.083Z</updated>
+    
+    
+    
     
     
   </entry>
